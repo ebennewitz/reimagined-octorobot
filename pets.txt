@@ -6,4 +6,5 @@ malamute
 Olivia
 Rhya
 Zion
-
+Loki
+Ivar
