@@ -10,3 +10,5 @@ Loki
 Ivar
 Nova
 Sasha
+Duffy
+Malcolm
